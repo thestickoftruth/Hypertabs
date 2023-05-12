@@ -20,7 +20,7 @@
 ## Credits for this fork
 - [thestickoftruth](https://github.com/thestickoftruth)
 
-## Credits for Original Creators
+## Creators
 
 - [B3ATDROP3R](https://github.com/B3ATDROP3R)
 - [Caracal.js](https://github.com/caracal-js)
