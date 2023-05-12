@@ -1,19 +1,3 @@
-<!-- Notice for idiots -->
-# NOTICE:
-
-You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They are static hosts, they just act as a web facing file system, you need the actual proxy for this to work.
-
-<!--
-                                _     _                     _       _   _          _                               _    
-     /\                        | |   | |                   | |     | \ | |        | |                             | |   
-    /  \     _ __ ___     ___  | |_  | |__    _   _   ___  | |_    |  \| |   ___  | |_  __      __   ___    _ __  | | __
-   / /\ \   | '_ ` _ \   / _ \ | __| | '_ \  | | | | / __| | __|   | . ` |  / _ \ | __| \ \ /\ / /  / _ \  | '__| | |/ /
-  / ____ \  | | | | | | |  __/ | |_  | | | | | |_| | \__ \ | |_    | |\  | |  __/ | |_   \ V  V /  | (_) | | |    |   < 
- /_/    \_\ |_| |_| |_|  \___|  \__| |_| |_|  \__, | |___/  \__|   |_| \_|  \___|  \__|   \_/\_/    \___/  |_|    |_|\_\
-                                               __/ |                                                                    
-                                              |___/                                                                     
--->
-<!-- The font is called Big, if you are wondering -->
 <div align="center">
          
 <img src="https://socialify.git.ci/amethystnetwork-dev/Hypertabs/image?font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Famethystnetwork-dev%2FHypertabs%2Fmain%2Fstatic%2Ficon.png&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light" alt="Hypertabs" width="640" height="320" />
@@ -35,13 +19,10 @@ You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They ar
     <a href="https://railway.app/new/template/EBnCyy?referralCode=8zUUBB"><img height="30px" src="https://img.shields.io/badge/Railway-%234f0599.svg?style=for-the-badge&logo=railway&logoColor=white"><img></a>
 </div>
 
-## Discord Server
+## Credits for this fork
+- [thestickoftruth](https://github.com/thestickoftruth)
 
-Press the join button to join the server:
-
-[![Join us on Discord](https://invidget.switchblade.xyz/fzrmxgu2NR?theme=light)](https://discord.gg/fzrmxgu2NR)
-
-## Credits
+## Credits for Original Creators
 
 - [B3ATDROP3R](https://github.com/B3ATDROP3R)
 - [Caracal.js](https://github.com/caracal-js)
